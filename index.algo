@@ -9,5 +9,5 @@ BEGIN
     ELSE
            IsPalindrome := false
        END_IF
-    END_FOR
+    END_FOR 
 END
